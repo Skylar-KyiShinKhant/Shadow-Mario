@@ -17,15 +17,19 @@ Just like a Mario game with three distinct levels. Level 1 involves simple runni
 
 ## About The Project
 When you run the project, the start page will appear with a welcome message, allowing the player to choose the level they want to play.
+
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/Start_page.png" width="500">
 
 In Level One,the player will find only coins, stationary enemies, and Mario. Reach the flag to win.
+
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level1.png" width="500">
 
 In Level Two, there will be floating platforms that move left and right. So are enemies. Special powers exist: cherries will double the collided coin value (from 1 to 2), and stars will make Mario invincible to enemies for a certain period upon contact.
+
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level2.png" width="500">
 
 In Level Three, in addition to the features from Level Two, there is an enemy boss who attacks with fireballs. Mario must defeat the enemy boss with fireballs to win the game.
+
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level3.png" width="500">
 
 When the player win the game, a victory message will be displayed, and if the player lose, a defeat message will appear. Afterward, pressing the space bar will return the player to the start page.
