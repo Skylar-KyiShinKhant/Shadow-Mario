@@ -26,7 +26,7 @@ In Level Two, there will be floating platforms that move left and right. So are 
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level2.png">
 
 In Level Three, in addition to the features from Level Two, there is an enemy boss who attacks with fireballs. Mario must defeat the enemy boss with fireballs to win the game.
-<img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level3.png" width="500">
+<img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/level3.png">
 
 When the player win the game, a victory message will be displayed, and if the player lose, a defeat message will appear. Afterward, pressing the space bar will return the player to the start page.
 <table>
@@ -44,7 +44,7 @@ To set up a local copy, follow these straightforward steps as outlined.
 
 ## Prerequisites
 To run this project, it is imported to get the following **External Libraries** imported to your prefered IDE.
-<img src="">
+<img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/Screenshot%202024-07-14%20at%203.38.44%20pm.png">
 
 ## One of Set-up options
 1. Clone the repo into the __IntelliJ__
