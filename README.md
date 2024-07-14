@@ -47,7 +47,7 @@ When the player win the game, a victory message will be displayed, and if the pl
 To set up a local copy, follow these straightforward steps as outlined.
 
 ## Prerequisites
-To run this project, it is imported to get the following **External Libraries** imported to your prefered IDE.
+To run this project, it is important to get the following **External Libraries** imported to your prefered IDE.
 <img src="https://github.com/Skylar-KyiShinKhant/Shadow-Mario/blob/main/screenshots/Screenshot%202024-07-14%20at%203.38.44%20pm.png" width="500">
 
 ## One of Set-up options
